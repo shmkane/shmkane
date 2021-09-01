@@ -7,4 +7,4 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmkane)](https://github.com/anuraghazra/github-readme-stats)-->
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shmkane.github) [![Linkedin Badge](https://img.shields.io/badge/-shmkane-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohampk/)](https://www.linkedin.com/in/craigdsouza28/)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=shmkane.github) [![Linkedin Badge](https://img.shields.io/badge/-sohampk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohampk/)](https://www.linkedin.com/in/sohampk/)
