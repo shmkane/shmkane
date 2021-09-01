@@ -1,5 +1,5 @@
 
-|![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shmkane&show_icons=true&count_private=true)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shmkane&theme=dark&ring=0EB3C9&fire=B590FA&currStreakLabel=0EB3C9)](https://git.io/streak-stats)|
+|![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shmkane&show_icons=true&count_private=true&theme=dark)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shmkane&theme=dark&ring=0EB3C9&fire=B590FA&currStreakLabel=0EB3C9)](https://git.io/streak-stats)|
 |---|---|
 
 [![Soham's github activity graph](https://activity-graph.herokuapp.com/graph?username=shmkane&bg_color=151515&color=ffffff&line=0EB3C9&point=0EB3C9&area=true&hide_border=false
