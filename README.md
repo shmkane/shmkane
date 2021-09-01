@@ -1,8 +1,8 @@
 
-|![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shmkane&show_icons=true&count_private=true&theme=dark)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shmkane&theme=dark&ring=0EB3C9&fire=B590FA&currStreakLabel=0EB3C9)](https://git.io/streak-stats)|
+|![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shmkane&show_icons=true&count_private=true&theme=github_dark)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shmkane&theme=dark&hide_border=true&background=000000&stroke=3E7BD7AA&ring=3E7BD7&fire=3E7BD7&currStreakLabel=3E7BD7&sideNums=3E7BD7&currStreakNum=FFFFFF&dates=787878D2&sideLabels=FFFFFF&border=FFFFFF)](https://git.io/streak-stats)|
 |---|---|
 
-[![Soham's github activity graph](https://activity-graph.herokuapp.com/graph?username=shmkane&bg_color=151515&color=ffffff&line=0EB3C9&point=0EB3C9&area=true&hide_border=false
+[![Soham's github activity graph](https://activity-graph.herokuapp.com/graph?username=shmkane&bg_color=151515&color=ffffff&line=3E7BD7&point=3E7BD7&area=false&hide_border=false
 )](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmkane)](https://github.com/anuraghazra/github-readme-stats)-->
