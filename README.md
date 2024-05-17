@@ -8,7 +8,8 @@
 </tr>
 </table>
 <table>
-<img src="https://activity-graph.herokuapp.com/graph?username=shmkane&bg_color=0D1117&color=ffffff&line=3E7BD7&point=3E7BD7&area=false&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shmkane&bg_color=0D1117&color=ffffff&line=3E7BD7&point=3E7BD7&area=false&hide_border=true" />
+ 
 </table>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmkane)](https://github.com/anuraghazra/github-readme-stats)-->
